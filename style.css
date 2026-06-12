@@ -48,6 +48,10 @@ body{
     border-radius: 1rem;
 }
 
+#input-new-task:hover{
+    box-shadow: 1px 1px 5px 2px  var(--color-white);
+}
+
 #btn-new-task{
     background-color: var(--color-dark2);
     color: var(--color-white);
